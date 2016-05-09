@@ -1,0 +1,24 @@
+/Users/Mowd/Repository/Clickers/platforms/android/ant-build/classes.dex : \
+/Users/Mowd/Repository/Clickers/platforms/android/ant-build/classes/org/apache/cordova/device/Device.class \
+/Users/Mowd/Repository/Clickers/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser$1.class \
+/Users/Mowd/Repository/Clickers/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser$2.class \
+/Users/Mowd/Repository/Clickers/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser$3.class \
+/Users/Mowd/Repository/Clickers/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser$4.class \
+/Users/Mowd/Repository/Clickers/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser$5$1.class \
+/Users/Mowd/Repository/Clickers/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser$5$2.class \
+/Users/Mowd/Repository/Clickers/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser$5$3.class \
+/Users/Mowd/Repository/Clickers/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser$5$4.class \
+/Users/Mowd/Repository/Clickers/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser$5$5.class \
+/Users/Mowd/Repository/Clickers/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser$5.class \
+/Users/Mowd/Repository/Clickers/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser$InAppBrowserClient.class \
+/Users/Mowd/Repository/Clickers/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser.class \
+/Users/Mowd/Repository/Clickers/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppChromeClient.class \
+/Users/Mowd/Repository/Clickers/platforms/android/ant-build/classes/org/apache/cordova/splashscreen/SplashScreen.class \
+/Users/Mowd/Repository/Clickers/platforms/android/ant-build/classes/tw/org/geothings/clickers/BuildConfig.class \
+/Users/Mowd/Repository/Clickers/platforms/android/ant-build/classes/tw/org/geothings/clickers/Clickers.class \
+/Users/Mowd/Repository/Clickers/platforms/android/ant-build/classes/tw/org/geothings/clickers/R$attr.class \
+/Users/Mowd/Repository/Clickers/platforms/android/ant-build/classes/tw/org/geothings/clickers/R$drawable.class \
+/Users/Mowd/Repository/Clickers/platforms/android/ant-build/classes/tw/org/geothings/clickers/R$string.class \
+/Users/Mowd/Repository/Clickers/platforms/android/ant-build/classes/tw/org/geothings/clickers/R$xml.class \
+/Users/Mowd/Repository/Clickers/platforms/android/ant-build/classes/tw/org/geothings/clickers/R.class \
+/Users/Mowd/Repository/Clickers/platforms/android/ant-build/dexedLibs/classes-94766da7c4ab32e668640ab9e9738582.jar \

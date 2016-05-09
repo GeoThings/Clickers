@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="tw.org.geothings.clickers" version="1.3" ios-CFBundleVersion="1.3.1" android-versionCode="10301" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>Clickers</name>
+    <description>
+        MicroMappers x GeoThings
+    </description>
+    <author email="slayer@geothings.tw" href="http://geothings.tw">
+        MicroMappers x GeoThings
+    </author>
+    <preference name="DisallowOverscroll" value="true" />
+    <preference name="SplashScreen" value="screen" />
+    <preference name="SplashScreenDelay" value="2000" />
+    <content src="index.html" />
+    <access origin="*" />
+    <allow-intent href="*" />
+    <allow-navigation href="*" />
+</widget>

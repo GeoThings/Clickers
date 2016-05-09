@@ -1,0 +1,38 @@
+body {
+    -webkit-user-select: none;
+    user-select: none;
+    font-family: Helvetica;
+}
+
+.hashtag {
+    color: blue;
+}
+
+.button-panel .ui-btn {
+    height: 50px;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    line-height: 50px;
+}
+
+.index-footer {
+    margin-left: auto;
+    margin-right: auto;
+    width: 180px;
+    font-size: 13px;
+}
+
+.index-footer a {
+    color: #444;
+}
+
+.text-panel, .image-panel {
+    margin: 10px 10px 0 10px;
+    padding-bottom: 20px;
+    font-size: 15px;
+}
+
+.image-panel {
+    display: none;
+}
